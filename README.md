@@ -41,10 +41,4 @@ This is a simple and interactive **Quiz Application** built using **HTML, CSS, a
 
 This project is open-source and free to use.
 
----
-
-### 👨‍💻 Author
-
-- **Your Name:** Viswanadh (you can update it to your full name)
-- **LinkedIn / GitHub / Portfolio:** (Add your links here)
 
